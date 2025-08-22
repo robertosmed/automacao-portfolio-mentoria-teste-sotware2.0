@@ -58,6 +58,12 @@ RF05: Filtar Filmes por Gênero
   
 - Instalar as dependencias do projeto
    - npm install
+ 
+- Execute os testes
+   - npx cypress open
+
+O servidor estará rodando em [http://localhost:8080](http://localhost:8080/index.html)
+
 
 
 🛠️ Tecnologias e Linguagens
